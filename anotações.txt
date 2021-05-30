@@ -1,5 +1,0 @@
-Possiveis features do site
-- Mapa interativo
-- Mascara para o CPF e CNPJ
-- Simplificar o código para seleção de estado de atuação
-- Arrumar os ids, names e types
